@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="<%= _.lang.replace('_', '-') %>" dir="ltr">
+
+<head>
+  <%- await include(`/@/head`, { _ }) %>
+  <link rel="stylesheet" type="text/css" href="/storefront.css">
+  <link rel="stylesheet" type="text/css" href="/checkout.css">
+
+  <%- await include('../@custom-html/head', { _ }) %>
+  <%- await include('../@custom-html/checkout/head', { _ }) %>
+</head>
+
+<body class="app">
+  <%- await include(`/@/layout/app/header`, { _ }) %>
+
+  <%- await include('../@custom-html/checkout/append-top', { _ }) %>
+
+  <%- await include(`/@/views/app`, { _ }) %>
+
+  <%- await include('../@custom-html/checkout/append-bottom', { _ }) %>
+
+  <%- await include(`/@/layout/app/footer`, { _ }) %>
+
+  <%- await include('../@custom-html/append-footer', { _ }) %>
+
+  <%- await include(`/@/scripts`, { _ }) %>
+
+  <%- await include('../@custom-html/scripts', { _ }) %>
+
+  <script src="/checkout.js"></script>
+</body>
+
+</html>
