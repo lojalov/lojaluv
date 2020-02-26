@@ -80,13 +80,13 @@
     </url>
   
     <url>
-      <loc>https://undefined/app/index</loc>
+      <loc>https://undefined/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://undefined/admin/index</loc>
+      <loc>https://undefined/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
