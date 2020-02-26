@@ -1,22 +1,21 @@
 {
-  "store_id": 1073,
-  "name": "Loja luv",
-  "domain": "storefront-demo.e-com.plus",
-  "short_name": "MyShop",
-  "description": "My PWA Shop",
-  "primary_color": "#383d44",
-  "secondary_color": "#7F7F7F",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#9d0b0b",
   "theme": {
     "bootswatch": "_"
   },
+  "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Loja lov",
+  "short_name": "Loja Lov - O prazer ao seu alcance  ",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#cecece",
+  "icon": "/img/uploads/favicon.gif",
+  "store_id": 1073,
+  "description": "A Loja LOV é uma loja virtual. Trabalhamos com produtos sensuais promovendo prazer e bem-estar.\n\nSelecionamos as melhores marcas e produtos para facilitar a escolha, garantia de satisfação, agregando valor à sua vida sexual. Tudo isso para lhe oferecer inovação e qualidade de atendimento.\n\nNão temos loja física.\n\nNa cidade de Marília - SP, oferecemos atendimento individualizado com horário agendado.\n\nEntregamos para todo Brasil em embalagem discreta via Correios.",
+  "large_icon": "/img/large-icon.png"
 }
