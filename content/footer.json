@@ -5,25 +5,25 @@
   },
   "links_1": {
     "list_pages": true,
-    "title": "Pages",
+    "title": "Páginas",
     "list": []
   },
   "links_2": {
     "list_categories": true,
-    "title": "Categories",
+    "title": "Categorias",
     "list": []
   },
   "contacts": {
-    "title": "Contacts",
+    "title": "Contatos",
     "phone_wpp": true,
-    "socials": true,
     "email": true,
-    "address": true
+    "socials": true
   },
   "stamps": [
     {
       "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
+      "alt": "Conexão Segura",
+      "link": "https://www.ssllabs.com/ssltest/analyze.html?d=www.lojalov.com.br"
     }
   ],
   "payment_methods": {
