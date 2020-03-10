@@ -1,14 +1,14 @@
 {
   "icons": [
     {
-      "src": "/icon_512x512.a0ba80003b3cf0f275a47885c5bf31c0.png",
+      "src": "/icon_512x512.81adae25a4c114524e6b9a315944e7e7.jpeg",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/jpeg"
     },
     {
-      "src": "/icon_384x384.0240fb21e4a86ec97b70a10a0be82bb6.png",
+      "src": "/icon_384x384.599c80939f60a85de1f63549c6c0398c.jpeg",
       "sizes": "384x384",
-      "type": "image/png"
+      "type": "image/jpeg"
     },
     {
       "src": "/icon_192x192.e18bcac1732e9ae8c898453082e0291a.gif",
