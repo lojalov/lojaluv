@@ -16,6 +16,22 @@
     ]
   },
   "pitbar": true,
-  "showcase": [],
+  "showcase": [
+    {
+      "collection": "5e691ad87e65524614885379"
+    },
+    {
+      "collection": "5e691aa27e65524614885372"
+    },
+    {
+      "collection": "5e691b0b7e65524614885381"
+    },
+    {
+      "collection": "5e691afa7e6552461488537e"
+    },
+    {
+      "collection": "5e691aea7e6552461488537c"
+    }
+  ],
   "additional_content": ""
 }
