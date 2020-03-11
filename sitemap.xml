@@ -2288,13 +2288,13 @@
     </url>
   
     <url>
-      <loc>https://undefined/pages/privacidade</loc>
+      <loc>https://undefined/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://undefined/pages/sobre-nos</loc>
+      <loc>https://undefined/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
