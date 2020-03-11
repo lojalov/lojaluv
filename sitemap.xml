@@ -2024,12 +2024,6 @@
     </url>
   
     <url>
-      <loc>https://undefined/produtos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://undefined/promocao</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2312,13 +2306,13 @@
     </url>
   
     <url>
-      <loc>https://undefined/pages/faq</loc>
+      <loc>https://undefined/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://undefined/pages/pagamentos</loc>
+      <loc>https://undefined/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
