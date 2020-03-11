@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
     "text": "ESTÁ É A NOVA LOJA LOV! FIQUE A VONTADE E EM CASO DE DÚVIDAS CLIQUE AQUI PARA FALAR CONOSCO",
-    "link": "https://web.whatsapp.com/send?phone=%2B5514997129701"
+    "link": "https://api.whatsapp.com/send?phone=5514997129701&text=Ol%C3%A1,%20estou%20no%20site%20da%20LOV,%20pode%20me%20ajudar?"
   },
   "contacts_stripe": {
     "pages": [
