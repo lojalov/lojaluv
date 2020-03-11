@@ -5,3 +5,16 @@
 #ec-user-popover, #cart-button button {
   color: #b20000
 }
+.products-carousel__title a::after {
+  content: ' + Ver mais';
+  font-size: 0.80rem;
+  font-weight: bold;
+  padding:  0.5rem;
+  color: #9d0b0b !important;
+}
+.products-carousel__title {
+text-transform: uppercase;
+color:
+#9D0B0B;
+font-weight: 700;
+}
