@@ -17,3 +17,12 @@ text-transform: uppercase;
 color: #9D0B0B;
 font-weight: 700;
 }
+.footer {
+  background: #454444;
+}
+.footer, .footer__title, .footer a {
+  color: #fff;
+}
+.footer__credits {
+  text-align: center;
+}
