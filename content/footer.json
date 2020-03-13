@@ -27,7 +27,8 @@
     },
     {
       "src": "/img/uploads/2000202.png",
-      "link": "https://www.compreconfie.com.br/lojalov"
+      "link": "https://www.compreconfie.com.br/lojalov",
+      "alt": "Compre & Confie"
     }
   ],
   "payment_methods": {
