@@ -1,5 +1,5 @@
 {
-  "main_price": "discount",
+  "main_price": "installments",
   "shipping": {
     "text": "Frete grátis para sudeste em compras acima de R$250",
     "show": true
