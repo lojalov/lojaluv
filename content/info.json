@@ -1,11 +1,11 @@
 {
   "main_price": "installments",
   "shipping": {
-    "text": "Frete grátis para sudeste em compras acima de R$250",
+    "text": "Frete grátis para compras acima de R$ 250,00 (Região sudeste)",
     "show": true
   },
   "installments": {
-    "text": "Parcele em até 12x ",
+    "text": "Parcele em até 12x no cartão",
     "show": true
   },
   "exchange": {
