@@ -33,6 +33,10 @@
     {
       "src": "/img/uploads/googlesafebrowsing.png",
       "link": "http://www.google.com/safebrowsing/diagnostic?site=www.lojalov.com.br"
+    },
+    {
+      "src": "/img/uploads/nortonsafeweb.png",
+      "link": "https://safeweb.norton.com/report/show?url=www.lojalov.com.br"
     }
   ],
   "payment_methods": {
