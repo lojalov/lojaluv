@@ -27,3 +27,10 @@ font-weight: 700;
 .footer__credits {
   text-align: center;
 }
+// Mensagem frete grátis
+.ec-shipping__services::before {
+  content: 'Frete grátis acima de R$ 250,00 para região sudeste';
+  font-weight: bold;
+  font-size: 13px;
+  color: #333;
+}
