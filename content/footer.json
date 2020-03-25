@@ -6,7 +6,16 @@
   "links_1": {
     "list_pages": false,
     "title": "Institucional",
-    "list": []
+    "list": [
+      {
+        "text": "A LOV",
+        "url": "https://lojaluv.netlify.com/pages/sobre-nos"
+      },
+      {
+        "text": "Sex Shop Bauru - SP",
+        "url": "https://lojaluv.netlify.com/pages/sex-shop-bauru-sp"
+      }
+    ]
   },
   "links_2": {
     "list_categories": true,
